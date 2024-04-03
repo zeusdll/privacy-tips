@@ -28,7 +28,8 @@ NIVEL - PARANOICO
 + Desative todos os serviços do google (se voce tiver um smartphone) e recorra a alternativas - acho bom sempre fazer isso e só utilizar a ferramenta de pesquisa deles, mas tomando as medidas necessárias para manter a privacidade, claro.
 + Tampe suas câmeras e desative seus microfones
 + Não utilize o DNS do google (8.8.8.8)
-+ Redes sociais? Pra que??
++ Perfil pessoal em redes sociais? Pra que??
++ Varie o sotaque, a forma de falar e digitar, esses tambem podem ser fatores que podem ser utilizados para reconhecer voce
 
 
 
