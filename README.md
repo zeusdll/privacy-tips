@@ -33,11 +33,12 @@ NIVEL - PARANOICO
 NIVEL - ANÔNIMO
 + Ashaushausaua. Nem se matando você se tornará 100% anônimo, meu amigo, mas você pode reforçar isso fazendo algumas coisas como:
   Exclua todas as suas redes sociais;
-  Não utilize serviços do google ou outras empresas grandes que invadem totalmente sua privacidade. Esse tipo de ação cria um perfil digital seu, tornando você alguém            altamente indentificável. Prefira serviços como
+  Não utilize serviços do google ou outras empresas grandes que invadem totalmente sua privacidade. Esse tipo de ação cria um        perfil digital seu, tornando você alguém altamente indentificável. Prefira serviços como
   Para pesquisar: Duckyduckygo; 
   Drive/armazenamento de dados: ProtonDrive, Mega...;
   Mapas: Duckyduckygo;
-  
+  Email: ja citados acima (protonmail, cock.li...)
++ Não utilize celulares modernos, prefira telefones de flip. CASO REALMENTE FOR NECESSÁRIO: utilize um smarthphone minimamente confiável (exclua iphones e samsungs já por ai, pois a partir do Android 10 e iOs 16, esses celulares são rastreados mesmo sem conexão com a internet XD), recorra a um google pixel ou um motorola, você deve estar pensando agora: ué, porra ahsaushausa. mas ele não fala tão mal sobre o google estar nos espionando e rOuBaNdO nossa privacidade?? por que ele tá recomendando um google pixel? Calma, meu pequeno gafanhoto, estou recomendando apenas o hardware. É obvio que teríamos que instalar um OS alternativo que, ao invés de acabar com nossa confidencialidade, reforça. 
   
   
 
