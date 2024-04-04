@@ -30,6 +30,16 @@ NIVEL - PARANOICO
 + Perfil pessoal em redes sociais? Pra que??
 + Varie o sotaque, a forma de falar e digitar, esses também podem ser fatores que podem ser utilizados para reconhecer você.
 
+NIVEL - ANÔNIMO
++ Ashaushausaua. Nem se matando você se tornará 100% anônimo, meu amigo, mas você pode reforçar isso fazendo algumas coisas como:
+  Exclua todas as suas redes sociais;
+  Não utilize serviços do google ou outras empresas grandes que invadem totalmente sua privacidade. Esse tipo de ação cria um perfil digital seu, tornando você alguém            altamente indentificável. Prefira serviços como
+  Para pesquisar: Duckyduckygo; 
+  Drive/armazenamento de dados: ProtonDrive, Mega...;
+  Mapas: Duckyduckygo;
+  
+  
+  
 
 
 
