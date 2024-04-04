@@ -1,5 +1,5 @@
 comentarios meus depois do "-".
-nao estarei explicando profundamente as coisas nesse arquivo, entao procure pesquisar sobre as coisas que voce desconhece.
+esse guia é um tipo de guia "só faz, irmão. Confia.", ou seja, nao estarei explicando profundamente as coisas nesse arquivo, entao procure pesquisar sobre as coisas que voce desconhece.
 
 
 NIVEL - SENSO COMUM
