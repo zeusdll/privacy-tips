@@ -9,7 +9,7 @@ NIVEL - SENSO COMUM
 
 
 NIVEL - PESSOA INTELIGENTE
-+ Utilizar uma VPN confiável - recomendo mullvad, inclusive, há diversas contas vazadas por ai, é so procurar. fórums de hacking como breachforums, cracked.io e todos os outros possuem.
++ Utilizar uma VPN confiável - recomendo mullvad. Tem como você conseguir de graça, so não posso expor isso aq, rs.
 + Utilize senhas fortes e NUNCA repita nenhuma delas - dê preferência às senhas geradas aleatoriamente e com um minimo de 16 digitos. anote elas em um papel e guarde em um local seguro.
 + Utilizar um navegator confiável e evite seus rastros digitais (digital footprint e digital fingerprint) (de preferência um que não te torne um produto vendendo todos os seus dados) - librewolf, tor, etc... navegadores como chrome, brave, opera e esse tipo de chorume so serve pra te espionar e comer sua RAM.
 + Prefira fornecer seus dados apenas quando for inevitável. sempre que puder, nao forneça nenhum dado. caso contrário, forneça dados falsos ou falsifique o maximo que puder para nao revelar sua identidade.
@@ -25,10 +25,10 @@ NIVEL - PARANOICO
 + Utilize emails temporários sempre que puder (tempmail.com)
 + Fique sempre atento aos ataques de engenharia social que podem estar tentando efetuar contra você
 + Desative todos os serviços do google (se voce tiver um smartphone) e recorra a alternativas - acho bom sempre fazer isso e só utilizar a ferramenta de pesquisa deles, mas tomando as medidas necessárias para manter a privacidade, claro.
-+ Tampe suas câmeras e desative seus microfones
-+ Não utilize o DNS do google (8.8.8.8)
++ Tampe suas câmeras e desative seus microfones.
++ Não utilize o DNS do google (8.8.8.8).
 + Perfil pessoal em redes sociais? Pra que??
-+ Varie o sotaque, a forma de falar e digitar, esses tambem podem ser fatores que podem ser utilizados para reconhecer voce
++ Varie o sotaque, a forma de falar e digitar, esses também podem ser fatores que podem ser utilizados para reconhecer você.
 
 
 
