@@ -2,7 +2,7 @@ comentarios meus depois do "-".
 
 
 NIVEL - SENSO COMUM
-+ Utilizar apenas softwares confiáveis - nada de terceiros, absolutamente nada modificado. use apenas softwares originais e de fontes confiáveis.
++ Utilizar apenas softwares confiáveis - nada de terceiros, absolutamente nada modificado. use apenas softwares originais e de fontes confiáveis. SE REALMENTE TE CONVÉM, utilize apenas softwares OPEN SOURCE.
 + Sempre desconfie de links e arquivos recebidos de terceiros
 + Sempre utilize 2FA
 
