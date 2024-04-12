@@ -18,7 +18,7 @@ NIVEL - PESSOA INTELIGENTE
 NIVEL - PARANOICO
 + Utilizar a rede I2P ou TOR - particularmente, prefiro a i2p devido aos ataques de desanonimização contra a rede tor que vêm ocorrendo por ai
 + Não utilize o mesmo username nas contas dos serviços que você utiliza, prefira utilizar nomes de usuário diferentes sem possuir nenhuma relação com dados seus ou outra conta sua.
-+ Utilizar um navegator confiável e evite seus rastros digitais (digital footprint e digital fingerprint) (de preferência um que não te torne um produto vendendo todos os seus dados) - librewolf, tor, etc... navegadores como chrome, brave, opera e esse tipo de chorume so serve pra te espionar e comer sua RAM.
++ Utilizar um navegator confiável e evite seus rastros digitais (digital footprint e digital fingerprint) (de preferência um que não te torne um produto vendendo todos os seus dados) - librewolf, tor,firefox etc... navegadores como chrome, brave, opera e esse tipo de chorume so serve pra te espionar e comer sua RAM.
 + Utilize extensoes de segurança no seu navegador - extensões como privacy badger, canvas defender e duckyduckygo privacy essentials são boas extensões para fortificar a segurança dos seus dados
 + Encripte todos os dados que você puder
 + Utilize emails temporários sempre que puder (tempmail.com)
